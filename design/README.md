@@ -11,7 +11,7 @@ https://cacoo.com/diagrams/XYisoatrVxZ1blyO
 ## Usecase Diagram
 https://cacoo.com/diagrams/ZmgDePCuTBKgpkXm
 
-### 설명
+### 추가설명
 ドメインモデル図를 작성은, 되도록 간결하게 표현하기 위해, 아래의 페이지를 참고로 클래스, 関連、汎化、集約의 4개요소만을 이용하였습니다.
 http://d.hatena.ne.jp/shuji_w6e/20081015/1224087896
 
@@ -20,3 +20,7 @@ https://www.sgnet.co.jp/java/java06_01.html
 
 ## ER Diagram
 https://cacoo.com/diagrams/J2i0P9oH0xIiVW2m
+
+### 추가설명
+カーディナリティ(다대다, 1대다 등) 표기는 아래 URL의 「４．１．IE記法」를 참고했습니다. 
+http://it-koala.com/entity-relationship-diagram-1897#IE-2
